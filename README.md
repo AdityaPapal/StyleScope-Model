@@ -1,1 +1,1 @@
-# Clothing Fashion Style Recommendation  
+# StyleScope Model 
